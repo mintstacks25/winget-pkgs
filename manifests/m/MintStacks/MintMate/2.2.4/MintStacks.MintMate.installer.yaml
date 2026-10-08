@@ -4,6 +4,9 @@
 PackageIdentifier: MintStacks.MintMate
 PackageVersion: 2.2.4
 InstallerType: nullsoft
+InstallerSwitches:
+  Silent: /S
+  SilentWithProgress: /S
 Installers:
 - Architecture: x86
   InstallerUrl: https://github.com/mintstacks25/mint/releases/download/v7.5.1/MintMate-Setup-2.2.4.exe
