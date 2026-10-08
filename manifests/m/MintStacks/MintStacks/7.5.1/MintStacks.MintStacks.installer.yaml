@@ -4,6 +4,7 @@
 PackageIdentifier: MintStacks.MintStacks
 PackageVersion: 7.5.1
 InstallerType: nullsoft
+ElevationRequirement: elevationRequired
 InstallerSwitches:
   Silent: /S
   SilentWithProgress: /S
