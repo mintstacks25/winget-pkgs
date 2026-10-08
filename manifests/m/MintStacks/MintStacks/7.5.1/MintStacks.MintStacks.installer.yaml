@@ -4,6 +4,9 @@
 PackageIdentifier: MintStacks.MintStacks
 PackageVersion: 7.5.1
 InstallerType: nullsoft
+InstallerSwitches:
+  Silent: /S
+  SilentWithProgress: /S
 Installers:
 - Architecture: x86
   InstallerUrl: https://github.com/mintstacks25/mint/releases/download/v7.5.1/MintStacks-Setup-7.5.1.exe
